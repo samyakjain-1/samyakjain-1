@@ -1,72 +1,40 @@
-# 👋 Hi, I'm Samyak Jain!
+<!-- ✨ Welcome Section -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=00C8FF&center=true&vCenter=true&width=600&height=45&lines=Hi+there+%F0%9F%91%8B+I'm+Samyak+Jain;Developer+%7C+Builder+%7C+CS+%40+UW-Madison" alt="Typing SVG" />
+</p>
 
-I'm a Computer Science undergraduate at the University of Wisconsin–Madison (Class of 2027), passionate about building impactful tech solutions that blend intelligent design with scalable engineering. I love working on full-stack development, AI-powered tools, and modern web technologies.
 
----
+## 👋 Hello there!
 
-## 🚀 Featured Projects
+I'm **Samyak Jain**, a curious technologist and builder studying **Computer Science at UW–Madison (2023–2027)**.  
+I thrive at the intersection of clean design, scalable systems, and meaningful code.
 
-### 💬 [Mental Health Chatbot](https://github.com/samyakjain-1) | Python (Flask), REST API, HTML, CSS, JavaScript
-An AI-driven chatbot for mental wellness support, integrating agent-like empathetic responses via RESTful APIs.
-
-- Built with Flask and deployed full-stack on Render.
-- Used token-based API protection and scalable architecture.
-- Frontend styled using Tailwind CSS and AOS.js for dynamic transitions and accessibility.
-- Responsive UI with smooth scrolling and dark/light mode support.
-
-### 🌐 [Personal Website](https://github.com/samyakjain-1) | HTML, CSS, JavaScript
-A sleek, responsive personal portfolio website to showcase skills, projects, and experience.
-
-- Designed with animated transitions (AOS.js) and smooth navigation.
-- Fully optimized for both desktop and mobile experience.
-
-### 🗺️ Campus Navigation System | HTML, CSS, JavaScript, Java, Git
-A visual graph-based pathfinding tool using Dijkstra's algorithm.
-
-- Calculates shortest campus routes with 30% improved accuracy over manual methods.
-- Built backend parser for .dot files and dynamically constructed large graphs.
-- Improved frontend user experience and reduced input error rate by 15%.
+- 💻 Full Stack Developer · AI Chatbot Builder · Problem Solver  
+- 🚀 Passionate about modern web development, system design, and applied AI  
+- 🎯 Focused on creating intuitive digital experiences with real-world value
 
 ---
 
-## 💼 Experience
+## 🛠 Tech Stack
 
-- **Resident Assistant (House Fellow)**, UW Madison  
-  Organized events, built community, and ensured residential policy compliance.  
+```text
+💡 Languages:        Java · Python · JavaScript · HTML · CSS · Bash
+⚙️ Frameworks:       ReactJS · Next.js · Flask · TailwindCSS · AOS.js
+🧠 Concepts:         OOP · Data Structures · Algorithms · REST APIs
+🛠 Tools:            Git · VS Code · Render · Node.js
+```
 
-- **Object-Oriented Programming Tutor**, GUTS Tutoring  
-  Tutored 50+ students in OOP concepts and improved average grades by 15%.
+## 🚀 Highlight Projects
 
----
+### 📌 <a href=https://github.com/samyakjain-1/chatbot>Mental Health Chatbot<a> — Flask · REST API · Tailwind CSS
+- AI-powered wellness bot with secure backend + responsive frontend transitions
+- Deployed full-stack app with Render + token-based API protection
 
-## 📚 Education
+### 📌 <a href=https://github.com/samyakjain-1/website>Personal Website<a> — HTML · CSS · JavaScript
+- Animated, smooth-scroll portfolio with a modern UI/UX built from scratch
 
-**University of Wisconsin–Madison**  
-B.S. in Computer Science (2023–2027)
+## 📈 GitHub Stats
+<div align="center"> <img height="170" src="https://github-readme-stats.vercel.app/api?username=samyakjain-1&show_icons=true&theme=gradient&hide_border=true" /> <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samyakjain-1&layout=compact&theme=gradient&hide_border=true" /> </div>
 
----
 
-## 📘 Relevant Coursework
-- Object-Oriented Programming · Data Structures & Algorithms · Discrete Math  
-- Assembly Language (FSM) · Linear Algebra · Reinforcement Learning  
-- Web Dev (HTML, CSS, JS) · Git · PyTorch
-
----
-
-## 🛠 Skills
-
-**Languages & Tools**:  
-Java · Python · HTML · CSS · JavaScript · Git · Bash · ReactJS · Next.js
-
----
-
-## 📫 Connect with Me
-
-- 🌐 [Linktree](https://linktr.ee/samyyj)
-- 💼 [Resume Website](https://samyakjain.me)
-- 📧 samyakjain25@gmail.com
-- 🧑‍💻 [GitHub](https://github.com/samyakjain-1)
-
----
-
-![Samyak's GitHub Stats](https://github-readme-stats.vercel.app/api?username=samyakjain-1&show_icons=true&theme=radical)
+<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f2fe,100:4facfe&height=120&section=footer" /> </div> 
