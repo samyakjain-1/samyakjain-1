@@ -39,12 +39,4 @@ Custom-designed responsive website made with HTML, CSS, JavaScript + AOS.js.
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samyakjain-1&layout=compact&theme=radical" width="48%"/>
-</p>
-
----
-
 <p align="center">🚀 Thanks for visiting!</p>
