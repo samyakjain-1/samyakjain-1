@@ -30,7 +30,7 @@ AI-powered wellness bot built using Flask, REST APIs & Tailwind CSS.
 ✓ Smooth UI transitions  
 ✓ Secure token-based API protection
 
-### 🌐 <a href=https://github.com/samyakjain-1/website>Personal Website<a>
+### 🌐 <a href=https://github.com/samyakjain-1/react-website>Personal Website<a>
 Custom-designed responsive website made with HTML, CSS, JavaScript + AOS.js.  
 ✓ Portfolio branding  
 ✓ Scroll animations  
