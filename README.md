@@ -41,6 +41,12 @@ Pipeline that scrapes Reddit course discussions and uses LLMs to generate high-s
 ✓ Tagged course insights  
 ✓ Helps students navigate class reviews
 
+### 🌐 <a href=https://github.com/Madgrades/madgrades.com/pull/40>MadGrades Open-Source Contribution</a>
+Submitted a pull request to the MadGrades repository, contributing improvements to the course grade data platform used by thousands of UW–Madison students.
+✓ Open-source collaboration
+✓ Codebase understanding & clean contributions
+✓ Community-driven development
+
 ### 🧠 <a href=https://github.com/samyakjain-1/chatbot>Mental Health Chatbot<a>
 AI-powered wellness bot built using Flask, REST APIs & Tailwind CSS.  
 ✓ Scalable backend architecture  
