@@ -23,6 +23,23 @@
 ---
 
 ## 🌟 Projects Showcase
+### 📊 <a href=https://github.com/samyakjain-1/csv-viz>AI CSV Visualizer</a>
+Streamlit + Gemini app that generates AI-driven summaries and visualizations from uploaded CSV files.  
+✓ Automated charting  
+✓ Natural language insights  
+✓ User-friendly interface
+
+### 📄 <a href=https://github.com/samyakjain-1/sales-order-automation>Sales Order Automation</a>
+FastAPI + React tool that extracts product data from PDFs and matches it against a live catalog.  
+✓ Human-in-the-loop verification  
+✓ Automated backend workflows  
+✓ Streamlined product tracking
+
+### 📝 <a href=https://courseinsight.vercel.app>Reddit Class Review Summarizer</a>
+Pipeline that scrapes Reddit course discussions and uses LLMs to generate high-signal summaries.  
+✓ Automated data extraction  
+✓ Tagged course insights  
+✓ Helps students navigate class reviews
 
 ### 🧠 <a href=https://github.com/samyakjain-1/chatbot>Mental Health Chatbot<a>
 AI-powered wellness bot built using Flask, REST APIs & Tailwind CSS.  
