@@ -29,7 +29,7 @@ Streamlit + Gemini app that generates AI-driven summaries and visualizations fro
 ✓ Natural language insights  
 ✓ User-friendly interface
 
-### 📄 <a href=https://github.com/samyakjain-1/sales-order-automation>Sales Order Automation</a>
+### 📄 <a href=https://github.com/samyakjain-1/sales-automation>Sales Order Automation</a>
 FastAPI + React tool that extracts product data from PDFs and matches it against a live catalog.  
 ✓ Human-in-the-loop verification  
 ✓ Automated backend workflows  
