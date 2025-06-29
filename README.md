@@ -76,3 +76,6 @@ Custom-designed responsive website made with HTML, CSS, JavaScript + AOS.js.
 ---
 
 <p align="center">🚀 Thanks for visiting!</p>
+
+![](https://komarev.com/ghpvc/?username=samyakjain-1&color=blue&style=flat-square)
+
