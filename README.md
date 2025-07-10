@@ -76,7 +76,7 @@ Custom-designed responsive website made with HTML, CSS, JavaScript + AOS.js.
 ---
 
 <div>
-  <a href="https://github.com/Tyrrnien81">
+  <a href="https://github.com/samyakjain-1">
     <img align="center" style="height: 209px;" src="https://github-readme-stats.zohan.tech/api?username=samyakjain-1&show_icons=true&theme=react" />
   </a>
   
