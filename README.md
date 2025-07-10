@@ -75,7 +75,12 @@ Custom-designed responsive website made with HTML, CSS, JavaScript + AOS.js.
 
 ---
 
-<p align="center">🚀 Thanks for visiting!</p>
+<div>
+  <a href="https://github.com/Tyrrnien81">
+    <img align="center" style="height: 209px;" src="https://github-readme-stats.zohan.tech/api?username=Tyrrnien81&show_icons=true&theme=react" />
+  </a>
+  
+---
 
 ![](https://komarev.com/ghpvc/?username=samyakjain-1&color=blue&style=flat-square)
 
