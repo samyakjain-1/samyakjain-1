@@ -1,86 +1,82 @@
-<h1 align="center">✨ Samyak Jain ✨</h1>
-<p align="center"><strong>Full Stack Developer | CS @ UW–Madison</strong></p>
-<p align="center">Passionate about creating meaningful software experiences that blend design, logic, and impact.</p>
+<h1 align="center">Samyak Jain</h1>
+<p align="center"><strong>Full Stack Developer · Computer Science @ UW–Madison</strong></p>
+<p align="center">Focused on building robust software experiences that merge design, engineering, and real-world impact.</p>
 
 ---
 
-## 🚀 About Me
+## About Me
 
-- 🎓 CS undergraduate @ **University of Wisconsin–Madison (2023–2027)**
-- 💻 Full Stack Developer with interest in scalable systems and AI-driven tools
-- 🧠 Love turning ideas into usable software and beautiful code
-- 🌱 Always learning new technologies and refining old skills
+- Computer Science undergraduate at the University of Wisconsin–Madison (2023–2027)
+- Full Stack Developer with a strong interest in scalable systems, AI tools, and developer-focused platforms
+- Enjoy solving complex problems with elegant, maintainable code
+- Continuously learning new technologies and deepening understanding of foundational concepts
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 **Languages:** Java · Python · JavaScript · HTML · CSS · Bash  
 **Frameworks:** React · Next.js · Flask · Tailwind CSS · AOS.js  
 **Tools:** Git · VS Code · Render · Node.js  
-**Concepts:** OOP · REST APIs · DSA · System Design
+**Core Concepts:** OOP · REST APIs · Data Structures & Algorithms · System Design
 
 ---
 
-## 🌟 Projects Showcase
-### 📊 <a href=https://github.com/samyakjain-1/csv-viz>AI CSV Visualizer</a>
-Streamlit + Gemini app that generates AI-driven summaries and visualizations from uploaded CSV files.  
-✓ Automated charting  
+## Some of My Projects
 
-✓ Natural language insights  
+### [SmartRepos](https://smartrepos.onrender.com)  
+Hackathon-winning AI platform that recommends trending GitHub repositories tailored to a developer’s profile.  
+- Built with React, Tailwind CSS, and the Modelence framework; integrated GPT-4o and Repomix for repo analysis and AI chat  
+- Implemented a personalized scoring algorithm based on user experience, languages, and interests, increasing repo match accuracy by 40%  
+- Streamlined GitHub data scraping and caching via Cheerio and MongoDB, reducing API latency and boosting load speed by 60%
 
-✓ User-friendly interface
+### [UW–Madison Live Parking Map](https://uw-parking.onrender.com)  
+Interactive web app that shows real-time parking availability near campus destinations.  
+- Built with React and Flask; scraped live garage data using Python (requests + BeautifulSoup), enabling continuous updates every 60 seconds  
+- Integrated Google Maps + Places APIs for live location search and visual filtering, reducing user parking search time by ~70%  
+- Engineered a modular backend with decoupled scraping, API, and frontend layers, improving maintainability and deployment flexibility
 
-### 📄 <a href=https://github.com/samyakjain-1/sales-automation>Sales Order Automation</a>
-FastAPI + React tool that extracts product data from PDFs and matches it against a live catalog.  
-✓ Human-in-the-loop verification
+### [Sales Order Automation](https://github.com/samyakjain-1/sales-automation)  
+FastAPI + React tool that extracts product line items from PDFs and matches them to a live product catalog.  
+- Human-in-the-loop verification system  
+- Automated backend pipelines for data extraction  
+- Streamlined product lookup for faster order processing
 
-✓ Automated backend workflows  
-
-✓ Streamlined product tracking
-
-### 📝 <a href=https://courseinsight.vercel.app>Reddit Class Review Summarizer</a>
-Pipeline that scrapes Reddit course discussions and uses LLMs to generate high-signal summaries.  
-✓ Automated data extraction  
-
-✓ Tagged course insights
-
-✓ Helps students navigate class reviews
-
-### 🌐 <a href=https://github.com/Madgrades/madgrades.com/pull/40>MadGrades Open-Source Contribution</a>
-Submitted a pull request to the MadGrades repository, contributing improvements to the course grade data platform used by thousands of UW–Madison students.
-
-✓ Open-source collaboration
-
-✓ Codebase understanding & clean contributions
-
-✓ Community-driven development
-
-### 🧠 <a href=https://github.com/samyakjain-1/chatbot>Mental Health Chatbot<a>
-AI-powered wellness bot built using Flask, REST APIs & Tailwind CSS.  
-✓ Scalable backend architecture  
-
-✓ Smooth UI transitions  
-
-✓ Secure token-based API protection
-
-### 🌐 <a href=https://github.com/samyakjain-1/react-website>Personal Website<a>
-Custom-designed responsive website made with HTML, CSS, JavaScript + AOS.js.  
-✓ Portfolio branding  
-
-✓ Scroll animations  
-
-✓ Fully mobile-friendly
-
+### [Course Insights Platform](https://courseinsight.vercel.app)  
+Full pipeline that scrapes course-related Reddit threads and uses LLMs to summarize student feedback.  
+- Scraped and ranked 10,000+ posts from r/UWMadison  
+- Generated high-signal summaries using Gemini  
+- Tag-based insights help students compare courses efficiently
 
 ---
 
-<div>
-  <a href="https://github.com/samyakjain-1">
-    <img align="center" style="height: 209px;" src="https://github-readme-stats.zohan.tech/api?username=samyakjain-1&show_icons=true&theme=react" />
-  </a>
-  
+## Open Source Contributions
+
+### [MadGrades](https://github.com/Madgrades/madgrades.com/pull/40)  
+Contributed UI and functionality improvements to UW–Madison’s public course grade distribution platform.  
+- Submitted a pull request enhancing visual clarity for course data used by thousands of students  
+- Navigated a production Django codebase, adhering to community coding standards  
+- Collaborated through issue threads and reviews to deliver a clean, accepted contribution
+
+### [UW CourseMap](https://github.com/twangodev/uw-coursemap/pull/848)  
+Improved the grade distribution chart UI on a community-built course mapping platform for UW students.  
+- Added a toggle to switch between raw counts and percentages using Svelte 5’s `$state` and `$derived` runes  
+- Enabled better cross-course comparison by defaulting to percentage view  
+
+### [Modelence Framework](https://github.com/modelence/modelence/pull/36)  
+Contibutor to Modelence, an open-source backend framework for building modular, AI-ready applications.  
+- Added automatic logging of the local app URL (`http://localhost:<port>`) on server startup to streamline development, improving navigation efficiency for developers
+
 ---
 
-![](https://komarev.com/ghpvc/?username=samyakjain-1&color=blue&style=flat-square)
+## GitHub Stats
 
+<a href="https://github.com/samyakjain-1">
+  <img align="center" style="height: 209px;" src="https://github-readme-stats.zohan.tech/api?username=samyakjain-1&show_icons=true&theme=react" />
+</a>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=samyakjain-1&color=blue&style=flat-square" alt="Profile Views">
+</p>
