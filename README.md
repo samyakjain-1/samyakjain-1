@@ -25,7 +25,7 @@
 ## Some of My Projects
 
 ### [SmartRepos](https://smartrepos.onrender.com)  
-Hackathon-winning AI platform that recommends trending GitHub repositories tailored to a developer’s profile.  
+Hackathon-winning ([Hackathon](https://modelence.com/hackathon)) AI platform that recommends trending GitHub repositories tailored to a developer’s profile.  
 - Built with React, Tailwind CSS, and the Modelence framework; integrated GPT-4o and Repomix for repo analysis and AI chat  
 - Implemented a personalized scoring algorithm based on user experience, languages, and interests, increasing repo match accuracy by 40%  
 - Streamlined GitHub data scraping and caching via Cheerio and MongoDB, reducing API latency and boosting load speed by 60%
